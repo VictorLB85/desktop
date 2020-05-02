@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Practica Integradora</title>
+<style>
+p.serif{
+	font-family:"Bodoni MT", Times serif; 
+	color:#C90;
+	font-size:45px;
+	text-align:center;
+}
+body {
+	background-image:url(../Pictures/beeele.PNG);
+	font-size:100;
+	background-repeat: no-repeat;
+}
+ul.lista{
+	list-style:none;
+	list-style-image:url(../Pictures/coso%20raro%20auuun%20mas%20chiquito.PNG);
+	padding-left:100;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:18px;
+	font-weight:100;
+}
+p{ color:#C90;
+font-size:18px;
+font-family:"Arial Black", Gadget, sans-serif;
+}
+</style>
+<link href="Pie.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<p class="serif">Joyería Victor Lucio</p>
+<p> En esta página podras encontrar todo tipo de joyería para ti</p>
+<ul class="lista">
+<li>Anillo</li>
+<li>Relojes</li>
+<li>Dijes</li>
+<li>Collares</li>
+<li>Cadenas</li>
+</ul>
+<p id="estilo"> Página creada por: Victor Azael Lucio Briones 
+Matricula: 1999578
+Unidad de Aprendizaje: Desarrollo de páginas web
+Etapa: 3,   
+Fecha: 2 de Mayo 2020.</p>
+</body>
+</html>
